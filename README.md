@@ -9,7 +9,7 @@
 |problems|관련 문제 (코테) |
 
 # 자료구조
-- [[intro]](../note/data/intro.md)
+- [[intro]](https://github.com/alsrb9936/algorithms/blob/main/note/data/intro.md)
 # 문제
 1. 바킹독 알고리즘 문제 
 
