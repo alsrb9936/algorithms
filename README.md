@@ -9,6 +9,18 @@
 
 # 자료구조
 - [[intro]](https://github.com/alsrb9936/algorithms/blob/main/note/data/intro.md)
+
+### array
+
+### List
+- [[singly-liked-list]]
+- [[doubly-liked-list]]
+### stack
+- [[stack]]
+### queue
+- [[queue]]
+### tree
+- [[tree]]
 # 문제
 1. 바킹독 알고리즘 문제 
 
