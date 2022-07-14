@@ -5,7 +5,6 @@
 |  파일 | 내용 |
 |--|--|
 | [note](./note/data) | 자료구조, 알고리즘 정리 |
-|sources|note 코드 구현 |
 |problems|관련 문제 (코테) |
 
 # 자료구조
