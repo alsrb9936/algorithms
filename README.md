@@ -14,7 +14,7 @@
 - [[intro]](https://github.com/alsrb9936/algorithms/blob/main/note/data/intro.md)
 
 ### array
-
+- [[array]](note/data/arraylist/array.md)
 ### List
 - [[singly-liked-list]]
 - [[doubly-liked-list]]
