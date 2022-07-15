@@ -14,7 +14,9 @@
 3. Pop 연산을 진행한다.
 4. 2번으로 돌아가 방문한 노드가 없을 때까지 loop 를 진행한다.
 
-![Untitled](../../assets/img/algo/BFS-Array.png)
+
+<img src="../../assets/img/algo/BFS-Array.png" width="200"/>
+
 보통 코테에서는 2차원 배열로 트리를 구성하거나 
 2차원 배열 자체를 맵으로 사용해 BFS 적용 시키는 경우가 많다.
 일단 기본적으로 외워야하는 코드는 다음과 같다

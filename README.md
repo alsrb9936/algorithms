@@ -26,4 +26,4 @@
 - [[tree]]
 
 # 알고리즘
-- [[BFS]]
+- [[BFS]](https://github.com/alsrb9936/algorithms/blob/main/note/algo/bfs.md)
