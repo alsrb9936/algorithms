@@ -58,7 +58,7 @@ void BFS(int posy, int posx){
 | 문제 분류 | 문제 | 문제 제목 | 정답 코드 |
 | :--: | :--: | :--: | :--: |
 | 연습 문제 | 1926 | [그림](https://www.acmicpc.net/problem/1926) | -  |
-| 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | -  |
+| 연습 문제 | 2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | [정답](../../problems/BFS/미로탐색.cpp) |
 | 연습 문제 | 7576 | [토마토](https://www.acmicpc.net/problem/7576) | -  |
 | 연습 문제 | 4179 | [불!](https://www.acmicpc.net/problem/4179) | -  |
 | 연습 문제 | 1697 | [숨바꼭질](https://www.acmicpc.net/problem/1697) | -  |
