@@ -1,4 +1,4 @@
-#배열
+# 배열
 
 ![Untitled](../../../assets/img/algo/array.jpeg)
  한 메모리 청크에 저장되는 연속적인 속성의 자료구조이다. 
