@@ -31,7 +31,7 @@ key(데이터 값)와 다음 노드를 가르키는 point 공간을 가진다.
 일반적으로 head 노드는 필수적으로 존재하며 여기에 tail 추가적으로 존재하면 연산이 좀 더 간단해진다 → 시간 복잡도 줄어듬
 
 ### API
-<img src="../../../assets/img/data/singly_lists_api.png" />
+<img src="../../../assets/img/data/singly_lists_api.png" width="600"/>
 
 추상적 자료구조에서는 기능 또한 같이 포함되어 있어야한다. 
 리스트에 필요한 기본 기능들은 위와 같다.
