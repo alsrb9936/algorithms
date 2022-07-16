@@ -50,6 +50,24 @@ void BFS(int posy, int posx){
     }
 }
 ```
+
+## Applications of BFS algorithm
+
+The applications of breadth-first-algorithm are given as follows -
+
+1. BFS can be used to find the neighboring locations from a given source location.
+   - 현재 노드에서 주변 노드를 검색하는 연산
+2. In a peer-to-peer network, BFS algorithm can be used as a traversal method to find all the neighboring nodes. Most torrent clients, such as BitTorrent, uTorrent, etc. employ this process to find "seeds" and "peers" in the network.
+   - P2P 네트워크에서 전체 네트워크 횡단 방법 예를 들어 토렌트 클라이언트 들에서는 시드와 피어를 찾기위해 bfs 알고리즘을 실행한다. 
+3. BFS can be used in web crawlers to create web page indexes. It is one of the main algorithms that can be used to index web pages. It starts traversing from the source page and follows the links associated with the page. Here, every web page is considered as a node in the graph.
+   - 웹 크롤러시 인덱싱 과정에서 사용되는 주요 알고리즘 BFS
+4. BFS is used to determine the shortest path and minimum spanning tree.
+   - 최소 신장 트리에서 최단 경로 찾는데 사용되는 알고리즘 
+   - 다익스트라 알고리즘, 프림 알고리즘의 기본 토대
+5. BFS is also used in Cheney's technique to duplicate the garbage collection.
+    - 체니 알고리즘에서 사용됨 
+6. It can be used in ford-Fulkerson method to compute the maximum flow in a flow network.
+   - 네트워크 최대 흐름을 계산하는데 사용
 # BFS 문제
 
 
